@@ -30,7 +30,7 @@ router.post("/signUp", async (req, res) => {
 
     res.status(201).json({ message: "User has been created successfully!" });
 
-    sendEmail(email, "Welcome to iCinema", "Welcome to iCinema");
+    // sendEmail(email, "Welcome to iCinema", "Welcome to iCinema");
   } catch (error) {
     res.status(500).json({ error: error.message });
   }

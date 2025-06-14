@@ -1,19 +1,15 @@
 # iCinema
 
 A full-stack MERN website for movie theaters that allows users to browse for films and filter them by available categories and ratings, as well as enables administrators to add new films to the list.
-<img width="1438" alt="ss" src="https://user-images.githubusercontent.com/25881325/67157291-7e05dc00-f32a-11e9-8d0e-00e6ecda5b7d.png">
 
-<h2>Installation</h2>
-Use the package manager [npm](https://www.npmjs.com/) to install iCinema.
+Firstly clone the Repo:
 
-Fork the Project by using:
-
-```bash
-git clone https://github.com/orifmilod/iCinema.git
 ```
 
-then cd into the project by using:
+```
 
+
+Folder 
 ```
 cd iCinema
 ```

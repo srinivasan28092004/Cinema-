@@ -29,7 +29,6 @@ app.use("/api/genres", genre);
 app.use("/api/users", users);
 app.use("/api/auth", auth);
 
-//Serve our static asset
 app.use(express.static("frontend/build"));
 
 app.get("*", (req, res) => {
