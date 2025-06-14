@@ -5,13 +5,13 @@ A full-stack MERN website for movie theaters that allows users to browse for fil
 Firstly clone the Repo:
 
 ```
-
+git clone https://github.com/srinivasan28092004/Cinema-.git
 ```
 
 
 Folder 
 ```
-cd iCinema
+cd Cinema-
 ```
 
 Now, Install the packages by running:
